@@ -1,17 +1,16 @@
-👋 Hola, soy @AlonsoSG0
+👋 Hi, I’m @AlonsoSG0
 
-👀 Me interesa el desarrollo web y la inteligencia artificial. Me apasiona crear aplicaciones innovadoras y eficientes.
+👀 I’m interested in web development and artificial intelligence. I'm passionate about creating innovative and efficient applications.
 
-🌱 Actualmente estoy aprendiendo sobre AWS y el despliegue de aplicaciones en la nube. También estoy experimentando con Astro y explorando nuevas formas de desarrollo web.
+🌱 I’m currently learning about AWS and application deployment in the cloud. I'm also experimenting with Astro and exploring new ways to build for the web.
 
-💞️ Me gustaría colaborar en proyectos de desarrollo de aplicaciones, especialmente aquellos que involucren tecnologías como React, Next.js, Node.js y Express.js. También estoy abierto a proyectos que exploren el potencial de la IA.
+💞️ I’m looking to collaborate on application development projects, especially those involving technologies like React, Next.js, Node.js, and Express.js. I'm also open to projects that explore the potential of AI.
 
-📫 Puedes contactarme por correo electrónico: alosangue00@gmail.com 
+📫 You can reach me by email: alosangue00@gmail.com 
 
-🌐 Visita mi sitio web: https://atrippdev.vercel.app
+🌐 Visit my website: https://atrippdev.vercel.app
 
-⚡ Dato curioso: Disfruto mucho de leer y experimentar con nuevas tecnologías.
-
+⚡ Fun fact: I enjoy reading, experimenting with new technologies, and building with AI.
 <!---
 AlonsoSG0/AlonsoSG0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
