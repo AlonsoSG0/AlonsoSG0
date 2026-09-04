@@ -8,7 +8,7 @@
 
 📫 You can reach me by email: alosangue00@gmail.com 
 
-🌐 Visit my website: https://atrippdev.vercel.app
+🌐 Visit my website: [https://atrippdev.vercel.app](https://atripp.dev/)
 
 ⚡ Fun fact: I enjoy reading, experimenting with new technologies, and building with AI.
 <!---
